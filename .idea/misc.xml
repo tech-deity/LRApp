@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/LRApp/app/src/main/res/drawable/ic_background.xml" value="0.142" />
+        <entry key="..\:/LRApp/app/src/main/res/layout/activity_main.xml" value="0.11865942028985507" />
         <entry key="..\:/LRApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/LRApp/app/src/main/res/layout/item_view.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

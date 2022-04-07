@@ -9,4 +9,6 @@ interface UserService {
 
      @GET("/fetchuser.php")
      suspend fun getUser():Response<User>
+
 }
+
